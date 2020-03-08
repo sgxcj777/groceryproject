@@ -2,7 +2,7 @@
     <div id=app>
         <h1>Add Item Page</h1> 
         <form id="fm1">
-        <label>Item Name</label>
+        <label>Item Name wohoo</label>
         <input type="text"/> 
         <label>Item Category</label>
         <input type="text"/>
