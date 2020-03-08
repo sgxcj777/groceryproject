@@ -18,7 +18,7 @@ export default {
   
   data(){
     return{
-        msg: 'Grocery List'
+        msg: 'Grocery List but actually it is Singapore attractions list hehe :)'
         }
   }
 }
